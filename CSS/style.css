@@ -75,8 +75,9 @@ nav{
     color: rgb(216, 121, 83);
     background-color: #ffe7e7;
     padding: 20px;
-    margin-left: 700px;
-    margin-right: 700px;
+    max-width: 500px; 
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #h21{
@@ -85,8 +86,9 @@ nav{
     color: rgb(216, 121, 83);
     background-color: #ffe7e7;
     padding: 20px;
-    margin-left: 800px;
-    margin-right: 800px;
+    max-width: 500px; 
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .promocao{
